@@ -16,3 +16,4 @@ TODO
 * Relate new repo events with repo list. Renaming repos results in broken links.
 * Consolidate Push events for a single day. There's need to display one block per event.
 * Perhaps wack the site with an ugly stick of hot pink. That may motivate a designer that's currently on the fence :)
+* Render Markdown messages properly.
